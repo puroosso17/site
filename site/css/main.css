@@ -1,0 +1,33 @@
+.d-flex{
+    margin-right: 500px;
+}
+
+.navbar-brand{
+    margin-right: 100px;
+    margin-left: 50px;
+}
+
+.menucadastro{
+    margin-right: 50px;
+}
+
+#buy {
+    filter: invert(100%);
+    width: 18px;
+    height: 18px;
+}
+
+#banner {
+    max-width: 100%;
+    height: auto;
+}
+
+.card {
+    max-width: 30%;
+    height: auto;
+}
+
+.card-body {
+    max-width: 100%;
+    height: auto;
+}
